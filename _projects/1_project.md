@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Covid-19 and New Norms of Surveillance: BIPOC Perspectives on Public Health
+description: A combination participatory action and quantitative geospatial research project looking into how the COVID-19 pandemic and contact tracing surveillance has impacted Black, Indigenous and People of Color (BIPOC) communities. A collaboration with the Creative Resilience Collective and Free Radicals.
 img: assets/img/12.jpg
 importance: 1
 category: work
